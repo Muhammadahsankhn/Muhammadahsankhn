@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Muhammad Ahsan Khan
 
-🎓 **Computer Science Undergraduate (Batch 2027)**  
+🎓 **Computer Science Undergraduate
 💻 **MERN Stack Developer | AI Integration Enthusiast | Open Source Explorer**
 
 ---
