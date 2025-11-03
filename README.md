@@ -56,10 +56,10 @@ A **full-stack MERN e-commerce platform** featuring:
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/muhammadahsankhn/" target="_blank">
+  <a href="[https://www.linkedin.com/in/muhammadahsankhn/](https://www.linkedin.com/in/ahsan-khan-a284132a0)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:muhammadahsankhn@gmail.com" target="_blank">
+  <a href="mailto:ahsankhn0987@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/Muhammadahsankhn" target="_blank">
