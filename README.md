@@ -5,7 +5,7 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
 I'm a **Computer Science student** passionate about crafting dynamic web applications using the **MERN Stack** (MongoDB, Express, React, Node.js).  
 I love building **real-world projects** that combine **modern UI**, **scalable backend**, and **AI-powered features** to make digital experiences smarter and more interactive.  
@@ -17,7 +17,7 @@ I love building **real-world projects** that combine **modern UI**, **scalable b
 
 ---
 
-### 🧩 Tech Stack
+### Tech Stack
 
 #### 💻 Frontend
 - React.js | Next.js | JavaScript | TypeScript | HTML | CSS | Tailwind | Bootstrap
