@@ -39,7 +39,6 @@ A **full-stack MERN e-commerce platform** featuring:
 - 👨‍💼 **Admin Panel** for product management (CRUD operations)  
 - 🛒 **User Panel** with add-to-cart and checkout functionality  
 - 🔐 Secure authentication & role-based access  
-- 🌐 Built with React, Node.js, MongoDB, and Express  
 
 ---
 
