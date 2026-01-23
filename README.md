@@ -33,7 +33,6 @@ I love building **real-world projects** that combine **modern UI**, **scalable b
 
 ---
 
-### 🏗️ Featured Project
 
 #### 🛍️ [SIS STITCH – Business E-Commerce Store](https://github.com/Muhammadahsankhn/SIS-STITCH)
 A **full-stack MERN e-commerce platform** featuring:
