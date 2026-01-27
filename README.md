@@ -34,13 +34,7 @@ I love building **real-world projects** that combine **modern UI**, **scalable b
 ---
 
 
-#### 🛍️ [SIS STITCH – Business E-Commerce Store](https://github.com/Muhammadahsankhn/SIS-STITCH)
-A **full-stack MERN e-commerce platform** featuring:
-- 👨‍💼 **Admin Panel** for product management (CRUD operations)  
-- 🛒 **User Panel** with add-to-cart and checkout functionality  
-- 🔐 Secure authentication & role-based access  
 
----
 
 ### 📊 GitHub Stats
 
