@@ -20,7 +20,7 @@ I love building **real-world projects** that combine **modern UI**, **scalable b
 ### Tech Stack
 
 #### 💻 Frontend
-- React.js | Next.js | JavaScript | TypeScript | HTML | CSS | Tailwind | Bootstrap
+- React.js | Next.js | JavaScript | TypeScript | Tailwind | Bootstrap
 
 #### 🧠 Backend
 - Node.js | Express.js | Firebase | REST APIs | JWT Authentication
